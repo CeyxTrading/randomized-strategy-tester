@@ -1,0 +1,11 @@
+pandas
+numpy
+yfinance
+loguru
+requests
+matplotlib
+scipy
+scikit-learn
+schedule
+backtesting
+bokeh==2.4.3
