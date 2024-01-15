@@ -1,8 +1,8 @@
 # randomized-strategy-tester-
 
-the combinations of technical indicators and their associated parameters to build a strategy are infinite. 
+the combinations of technical indicators and their associated parameters to build a strategy are infinite. This program will randomly search thousands of indictors to see which works well together along with differing parameters.
 
-Here my preliminary list of 30+ indicators:
+Here my preliminary list of 30+ indicators included:
 
 RSI (Relative Strength Index)
 
